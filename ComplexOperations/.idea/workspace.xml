@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="421ebcaf-d668-4ce5-80be-c9f6ed173873" name="Changes" comment="" />
+    <list default="true" id="6342b05f-c605-4b9b-9cbe-037ca2f63d11" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,15 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
-  </component>
-  <component name="ProjectId" id="1zQHM93ToQoSJL6DBKxHc1yMrF7" />
+  <component name="ProjectId" id="1zQMjZqkjiTZ8N3MosjbzqQ6Uc0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -92,7 +84,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="Point" />
+      <module name="ComplexOperations" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -109,12 +101,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="421ebcaf-d668-4ce5-80be-c9f6ed173873" name="Changes" comment="" />
-      <created>1634073340685</created>
+      <changelist id="6342b05f-c605-4b9b-9cbe-037ca2f63d11" name="Changes" comment="" />
+      <created>1634075993425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634073340685</updated>
-      <workItem from="1634073343984" duration="1613000" />
+      <updated>1634075993425</updated>
+      <workItem from="1634075996300" duration="976000" />
     </task>
     <servers />
   </component>
